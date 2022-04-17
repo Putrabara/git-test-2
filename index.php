@@ -7,5 +7,6 @@
 </head>
 <body>
 	Hello World!
+	<p>Paragraf satu</p>
 </body>
 </html>
